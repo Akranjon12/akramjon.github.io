@@ -1,0 +1,91 @@
+body{
+	padding: 0;
+	margin: 0;
+	font-family: 'Anton' sans-serif;
+	color: #000;
+	font-size: 16px;
+}
+h1 h2 h3 h4 h5 h6{
+	padding: 0;
+	margin: 0;
+	text-transform: uppercase;
+}
+ul, li{
+	display: block;
+	margin: 0;
+	padding: 0;
+}
+.conteiner {
+	width: 1170px;
+	margin: 0 auto;
+}
+.header{
+	background: url("https://34travel.me/media/upload/images/2019/september/burning-man/7c1b89b7-43d9-45eb-9d8f-fa5309b1d9e9-People_and_Art_at_Burning_Man_3.jpg");
+	
+    padding-top: 57px;		
+    color: #fff;
+	padding-bottom: 422px
+}
+header a{
+	color: white;
+}
+}
+.logo {
+	margin-right: 69spx;
+}
+.menu{
+	display: flex;
+}
+.menu li a{
+	text-transform: uppercase;
+	text-decoration: none;
+	font-size: 14px;
+
+}
+.menu li {
+	margin-right: 40px;
+}
+.tel {
+	font-size: 17px;
+	margin-left: auto;
+	text-decoration: none;
+	letter-spacing: 0.1em;
+}
+.nav{
+	display: flex;
+	align-items: center;
+	margin-bottom: 57px;
+	
+}
+.offer {
+	text-transform: uppercase;
+	margin-top: 216px;
+}
+
+.offer p {
+	font-size: 30px;
+	letter-spacing: 0.1em;
+}
+
+.offer h1 {
+	font-size: 100px;
+	margin-bottom: 19px;
+	margin-top: -9px;
+	letter-spacing: 0.02em
+}
+
+.btn {
+	display: block;
+	font-size: 17px;
+	text-align: center;
+	letter-spacing: 0.1em;
+	padding: 17px 47px;
+	border: 1px solid #fff;
+	width: 238px;
+	transition: all 0.5s ease;
+}
+
+.btn:hover {
+	background: #fff;
+    color: #000;
+}
